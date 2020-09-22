@@ -1,0 +1,16 @@
+body {
+  background-color: #c6fcf3;
+  color: rgb(3, 0, 0);
+  padding: 40px;
+  font-family: Arial;
+}
+
+.button {
+  background-color: rgb(17, 148, 104);
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: rgb(166, 253, 210); /* Green */
+  color: rgb(88, 117, 82);
+}
